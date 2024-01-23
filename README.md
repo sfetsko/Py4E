@@ -1,2 +1,2 @@
 # PY4E
-Exercises for Python for Everybody course.  Free for reference for anyone completing the course and looking to compare assignment results/solutions.
+Exercises for Python for Everybody course.  Using this to upload results for reference/critique and get familiar with using GitHub.
